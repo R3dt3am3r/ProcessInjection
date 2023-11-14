@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\Dll_Injection\Dll_Injection\bin\x64\Release\Dll_Injection.exe.config
+C:\Users\admin\source\repos\Dll_Injection\Dll_Injection\bin\x64\Release\Dll_Injection.exe
+C:\Users\admin\source\repos\Dll_Injection\Dll_Injection\bin\x64\Release\Dll_Injection.pdb
+C:\Users\admin\source\repos\Dll_Injection\Dll_Injection\obj\x64\Release\Dll_Injection.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Dll_Injection\Dll_Injection\obj\x64\Release\Dll_Injection.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Dll_Injection\Dll_Injection\obj\x64\Release\Dll_Injection.exe
+C:\Users\admin\source\repos\Dll_Injection\Dll_Injection\obj\x64\Release\Dll_Injection.pdb
