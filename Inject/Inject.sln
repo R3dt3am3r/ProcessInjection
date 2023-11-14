@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33919.361
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inject", "Inject\Inject.csproj", "{43AE54C1-AC3F-4ED5-BD25-C1CC2D75DFDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43AE54C1-AC3F-4ED5-BD25-C1CC2D75DFDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43AE54C1-AC3F-4ED5-BD25-C1CC2D75DFDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43AE54C1-AC3F-4ED5-BD25-C1CC2D75DFDF}.Debug|x64.ActiveCfg = Debug|x64
+		{43AE54C1-AC3F-4ED5-BD25-C1CC2D75DFDF}.Debug|x64.Build.0 = Debug|x64
+		{43AE54C1-AC3F-4ED5-BD25-C1CC2D75DFDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43AE54C1-AC3F-4ED5-BD25-C1CC2D75DFDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43AE54C1-AC3F-4ED5-BD25-C1CC2D75DFDF}.Release|x64.ActiveCfg = Release|x64
+		{43AE54C1-AC3F-4ED5-BD25-C1CC2D75DFDF}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17595E1D-C289-4DAA-A801-BDBF0647F309}
+	EndGlobalSection
+EndGlobal

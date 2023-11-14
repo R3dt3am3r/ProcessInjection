@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\Inject\Inject\bin\x64\Debug\Inject.exe.config
+C:\Users\admin\source\repos\Inject\Inject\bin\x64\Debug\Inject.exe
+C:\Users\admin\source\repos\Inject\Inject\bin\x64\Debug\Inject.pdb
+C:\Users\admin\source\repos\Inject\Inject\obj\x64\Debug\Inject.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Inject\Inject\obj\x64\Debug\Inject.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Inject\Inject\obj\x64\Debug\Inject.exe
+C:\Users\admin\source\repos\Inject\Inject\obj\x64\Debug\Inject.pdb
